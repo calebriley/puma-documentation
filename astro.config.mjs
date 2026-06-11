@@ -14,6 +14,10 @@ export default defineConfig({
 					items: [{ autogenerate: { directory: 'grammar' }}],
 				},
 				{
+					label: 'Proto-Language',
+					items: [{ autogenerate: { directory: 'protolanguage' }}],
+				},
+				{
 					label: 'Reference',
 					items: [{ autogenerate: { directory: 'reference' }}],
 				},
