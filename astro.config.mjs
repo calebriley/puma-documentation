@@ -16,10 +16,6 @@ export default defineConfig({
 					label: 'Proto-Language',
 					items: [{ autogenerate: { directory: 'protolanguage' }}],
 				},
-				{
-					label: 'Reference',
-					items: [{ autogenerate: { directory: 'reference' }}],
-				},
 			],
 			customCss: [
 				// Relative path to your custom CSS file
