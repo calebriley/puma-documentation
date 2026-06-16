@@ -1,0 +1,30 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import { getCollection, render } from 'astro:content';
+// 1. Generate a new path for every collection entry
+export async function getStaticPaths() {
+  const vocab = await getCollection('vocab');
+  return vocab.map(term => ({
+    params: { id: term.id },
+    props: { term },
+  }));
+}
+// 2. For your template, you can get the entry directly from the prop
+const { term } = Astro.props;
+const { Content } = await render(term);
+---
+<StarlightPage frontmatter={{ title: term.data.romanisation }}>
+
+<table>
+    <tr><th>Romanisation</th><td>{term.data.romanisation}</td></tr>
+    <tr><th>Modern Form</th><td>{term.data.modernForm}</td></tr>
+    <tr><th>Evolved form</th><td>{term.data.evolvedForm}</td></tr>
+    <tr><th>Proto form</th><td>{term.data.protoForm}</td></tr>
+    {term.data.english.map(meaning => (
+        <tr><th>Meaning</th><td>{meaning}</td></tr>
+    ))}
+    <tr><th>Part of speech</th><td>{term.data.partOfSpeech}</td></tr>
+    <tr><th>Notes</th><td>{term.data.notes}</td></tr>
+    <tr><th>Created by</th><td>{term.data.createdBy}</td></tr>
+</table>
+</StarlightPage>
