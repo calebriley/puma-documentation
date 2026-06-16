@@ -1,0 +1,3529 @@
+[
+    {
+        "protoForm": "malʲakʷ",
+        "evolvedForm": "maraku",
+        "modernForm": "maraku",
+        "romanisation": "maraku",
+        "english": [
+            "bobcat"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Animal/Animate",
+        "createdBy": "Jake",
+        "id": "maraku_0"
+    },
+    {
+        "protoForm": "əsʷsʷəw",
+        "evolvedForm": "ususu",
+        "modernForm": "ususu",
+        "romanisation": "ususu",
+        "english": [
+            "fonio"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Plant/Biotic Feature",
+        "createdBy": "Jake",
+        "id": "ususu_1"
+    },
+    {
+        "protoForm": "wətʲəj",
+        "evolvedForm": "witi",
+        "modernForm": "witi",
+        "romanisation": "witi",
+        "english": [
+            "bed"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Inanimate",
+        "createdBy": "Jake",
+        "id": "witi_2"
+    },
+    {
+        "protoForm": "kʷətʲjanʲ",
+        "evolvedForm": "kʷatʲani",
+        "modernForm": "kʷatʲani",
+        "romanisation": "kätáni",
+        "english": [
+            "garden"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Location",
+        "createdBy": "Jake",
+        "id": "kätáni_3"
+    },
+    {
+        "protoForm": "əkʲsʷə",
+        "evolvedForm": "ikisʷi",
+        "modernForm": "ikisʷi",
+        "romanisation": "ikisï",
+        "english": [
+            "flute"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Culturally-Interesting",
+        "createdBy": "Jake",
+        "id": "ikisï_4"
+    },
+    {
+        "protoForm": "lʲəmʲə",
+        "evolvedForm": "limi",
+        "modernForm": "limi",
+        "romanisation": "limi",
+        "english": [
+            "to give"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Transitive",
+        "createdBy": "Jake",
+        "id": "limi_5"
+    },
+    {
+        "protoForm": "aptʲə",
+        "evolvedForm": "apati",
+        "modernForm": "apati",
+        "romanisation": "apati",
+        "english": [
+            "to close"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Intransitive",
+        "createdBy": "Jake",
+        "id": "apati_6"
+    },
+    {
+        "protoForm": "pətʷpə",
+        "evolvedForm": "putupu",
+        "modernForm": "putupu",
+        "romanisation": "putupu",
+        "english": [
+            "to pop (grain)"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Culturally-Interesting",
+        "createdBy": "Jake",
+        "id": "putupu_7"
+    },
+    {
+        "protoForm": "kʷakʷ-kʷakʷ",
+        "evolvedForm": "kʷaku-waku",
+        "modernForm": "kʷaku-waku",
+        "romanisation": "käku-waku",
+        "english": [
+            "ribbit"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Sound/Sensory",
+        "createdBy": "Jake",
+        "id": "käku-waku_8"
+    },
+    {
+        "protoForm": "tʲanʷ-tʲanʷ",
+        "evolvedForm": "tʲanu-janu",
+        "modernForm": "tʲanu-janu",
+        "romanisation": "tánu-janu",
+        "english": [
+            "happy",
+            "joyful"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Feeling/Emotion",
+        "createdBy": "Jake",
+        "id": "tánu-janu_9"
+    },
+    {
+        "protoForm": "ənʷakʷ",
+        "evolvedForm": "anʷaku",
+        "modernForm": "anʷaku",
+        "romanisation": "anäku",
+        "english": [
+            "gulp",
+            "gulping"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Event",
+        "createdBy": "Jake",
+        "id": "anäku_10"
+    },
+    {
+        "protoForm": "mʲakʲə-mʲakʲə",
+        "evolvedForm": "mʲaki-jaki",
+        "modernForm": "mʲaki-jaki",
+        "romanisation": "máki-jaki",
+        "english": [
+            "drunkenly",
+            "in an inebriated manner"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Manner",
+        "createdBy": "Jake",
+        "id": "máki-jaki_11"
+    },
+    {
+        "protoForm": "kʷətʲa",
+        "evolvedForm": "kʷatʲa",
+        "modernForm": "kʷatʲa",
+        "romanisation": "kätá",
+        "english": [
+            "kitten",
+            "young feline"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "kätá_12"
+    },
+    {
+        "protoForm": "alʲəmʲ",
+        "evolvedForm": "alimi",
+        "modernForm": "alimi",
+        "romanisation": "alimi",
+        "english": [
+            "mouse",
+            "house mouse"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "alimi_13"
+    },
+    {
+        "protoForm": "mətʷa",
+        "evolvedForm": "matʷa",
+        "modernForm": "matʷa",
+        "romanisation": "matä",
+        "english": [
+            "brother"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "matä_14"
+    },
+    {
+        "protoForm": "amʲtʲa",
+        "evolvedForm": "amitʲa",
+        "modernForm": "amitʲa",
+        "romanisation": "amitá",
+        "english": [
+            "girl"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "amitá_15"
+    },
+    {
+        "protoForm": "atʲəkʷ",
+        "evolvedForm": "atiku",
+        "modernForm": "atiku",
+        "romanisation": "atiku",
+        "english": [
+            "frog"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "atiku_16"
+    },
+    {
+        "protoForm": "tʲəsʷa",
+        "evolvedForm": "tisʷa",
+        "modernForm": "tisʷa",
+        "romanisation": "tisä",
+        "english": [
+            "to lie (posture)"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "tisä_17"
+    },
+    {
+        "protoForm": "kʲəwkʷa",
+        "evolvedForm": "kikʷa",
+        "modernForm": "kikʷa",
+        "romanisation": "kikä",
+        "english": [
+            "mopane worm"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "kikä_18"
+    },
+    {
+        "protoForm": "tʲampʲa",
+        "evolvedForm": "tʲamapʲa",
+        "modernForm": "tʲamapʲa",
+        "romanisation": "támapá",
+        "english": [
+            "mopane tree"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "támapá_19"
+    },
+    {
+        "protoForm": "əpʲ 'oop",
+        "evolvedForm": "ipi-'aooapa",
+        "modernForm": "ipi-'aooapa",
+        "romanisation": "ipi-'aooapa",
+        "english": [
+            "oop",
+            "expression of surprise or shock",
+            "a small accident"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "ipi-'aooapa_20"
+    },
+    {
+        "protoForm": "lʲənʲma-lʲənʲma",
+        "evolvedForm": "linima-inima",
+        "modernForm": "linima-inima",
+        "romanisation": "linima-inima",
+        "english": [
+            "hot",
+            "sexy",
+            "like a new bombshell entering the villa"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "linima-inima_21"
+    },
+    {
+        "protoForm": "walʷwa",
+        "evolvedForm": "wara",
+        "modernForm": "wara",
+        "romanisation": "wara",
+        "english": [
+            "villa",
+            "fancy house for fancy people"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "wara_22"
+    },
+    {
+        "protoForm": "awənʷ",
+        "evolvedForm": "awanu",
+        "modernForm": "awanu",
+        "romanisation": "awanu",
+        "english": [
+            "mango"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "awanu_23"
+    },
+    {
+        "protoForm": "kʷatʲəj-kʷatʲəj",
+        "evolvedForm": "kʷati-wati",
+        "modernForm": "kʷati-wati",
+        "romanisation": "käti-wati",
+        "english": [
+            "muddy",
+            "squelchy"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "käti-wati_24"
+    },
+    {
+        "protoForm": "jəjətʷ",
+        "evolvedForm": "itu",
+        "modernForm": "itu",
+        "romanisation": "itu",
+        "english": [
+            "cashew"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "itu_25"
+    },
+    {
+        "protoForm": "tʲatʷakʲ",
+        "evolvedForm": "tʲatʷaki",
+        "modernForm": "tʲatʷaki",
+        "romanisation": "tátäki",
+        "english": [
+            "pink/Peruvian pepper"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "tátäki_26"
+    },
+    {
+        "protoForm": "sʲamasʲ",
+        "evolvedForm": "ʃamaʃi",
+        "modernForm": "ʃamaʃi",
+        "romanisation": "shamashi",
+        "english": [
+            "goat"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "shamashi_27"
+    },
+    {
+        "protoForm": "awamʲ",
+        "evolvedForm": "awami",
+        "modernForm": "awami",
+        "romanisation": "awami",
+        "english": [
+            "garter snake"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Animal/Animate",
+        "createdBy": "Miles",
+        "id": "awami_28"
+    },
+    {
+        "protoForm": "kʷəmʲwakʲ",
+        "evolvedForm": "kʷamʷaki",
+        "modernForm": "kʷamʷaki",
+        "romanisation": "kämäki",
+        "english": [
+            "sagebrush"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Plant/Biotic Feature",
+        "createdBy": "Miles",
+        "id": "kämäki_29"
+    },
+    {
+        "protoForm": "malʲtʷə",
+        "evolvedForm": "malitʷi",
+        "modernForm": "malitʷi",
+        "romanisation": "malitï",
+        "english": [
+            "cloth",
+            "thin blanket"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Inanimate",
+        "createdBy": "Miles",
+        "id": "malitï_30"
+    },
+    {
+        "protoForm": "lʷətʲtʲə",
+        "evolvedForm": "rititi",
+        "modernForm": "rititi",
+        "romanisation": "rititi",
+        "english": [
+            "cave"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Location",
+        "createdBy": "Miles",
+        "id": "rititi_31"
+    },
+    {
+        "protoForm": "sʲajpətʷ",
+        "evolvedForm": "ʃapitu",
+        "modernForm": "ʃapitu",
+        "romanisation": "shapitu",
+        "english": [
+            "potter’s wheel"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Culturally-Interesting",
+        "createdBy": "Miles",
+        "id": "shapitu_32"
+    },
+    {
+        "protoForm": "pʲəpʲəkʷ",
+        "evolvedForm": "pipiku",
+        "modernForm": "pipiku",
+        "romanisation": "pipiku",
+        "english": [
+            "to find"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Transitive",
+        "createdBy": "Miles",
+        "id": "pipiku_33"
+    },
+    {
+        "protoForm": "sʷakʷ",
+        "evolvedForm": "sʷaku",
+        "modernForm": "sʷaku",
+        "romanisation": "säku",
+        "english": [
+            "to run"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Intransitive",
+        "createdBy": "Miles",
+        "id": "säku_34"
+    },
+    {
+        "protoForm": "kʲəsʲ",
+        "evolvedForm": "kiʃi",
+        "modernForm": "kiʃi",
+        "romanisation": "kishi",
+        "english": [
+            "to burn incense / herbs"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Culturally-Interesting",
+        "createdBy": "Miles",
+        "id": "kishi_35"
+    },
+    {
+        "protoForm": "tʷəkʷ",
+        "evolvedForm": "tuku",
+        "modernForm": "tuku",
+        "romanisation": "tuku",
+        "english": [
+            "slap of clay on wheel"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Sound/Sensory",
+        "createdBy": "Miles",
+        "id": "tuku_36"
+    },
+    {
+        "protoForm": "lʲə-lʲə",
+        "evolvedForm": "li-i",
+        "modernForm": "li-i",
+        "romanisation": "li-i",
+        "english": [
+            "cutesy, naive"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Feeling/Emotion",
+        "createdBy": "Miles",
+        "id": "li-i_37"
+    },
+    {
+        "protoForm": "kʲəj-kʷəw",
+        "evolvedForm": "ki-wu",
+        "modernForm": "ki-wu",
+        "romanisation": "ki-wu",
+        "english": [
+            "snoring, snoozing"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Event",
+        "createdBy": "Miles",
+        "id": "ki-wu_38"
+    },
+    {
+        "protoForm": "pakʷ-pakʷ",
+        "evolvedForm": "paku-paku",
+        "modernForm": "paku-paku",
+        "romanisation": "paku-paku",
+        "english": [
+            "tediously, monotonously, boringly"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Manner",
+        "createdBy": "Miles",
+        "id": "paku-paku_39"
+    },
+    {
+        "protoForm": "kʲanʷə",
+        "evolvedForm": "kʲanʷa",
+        "modernForm": "kʲanʷa",
+        "romanisation": "kánä",
+        "english": [
+            "clay"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Miles",
+        "id": "kánä_40"
+    },
+    {
+        "protoForm": "pətʷakʷ",
+        "evolvedForm": "patʷaku",
+        "modernForm": "patʷaku",
+        "romanisation": "patäku",
+        "english": [
+            "to sit"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Miles",
+        "id": "patäku_41"
+    },
+    {
+        "protoForm": "mʲəlʲkʷə",
+        "evolvedForm": "milikʷi",
+        "modernForm": "milikʷi",
+        "romanisation": "milikï",
+        "english": [
+            "to search for"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Miles",
+        "id": "milikï_42"
+    },
+    {
+        "protoForm": "pʲəpʲpʲətʲ",
+        "evolvedForm": "pipipiti",
+        "modernForm": "pipipiti",
+        "romanisation": "pipipiti",
+        "english": [
+            "desert shrew"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Animal/Animate",
+        "createdBy": "Jonathan",
+        "id": "pipipiti_43"
+    },
+    {
+        "protoForm": "patʷatʷ",
+        "evolvedForm": "patʷatu",
+        "modernForm": "patʷatu",
+        "romanisation": "patätu",
+        "english": [
+            "sumac"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Plant/Biotic Feature",
+        "createdBy": "Jonathan",
+        "id": "patätu_44"
+    },
+    {
+        "protoForm": "pʲəma",
+        "evolvedForm": "pima",
+        "modernForm": "pima",
+        "romanisation": "pima",
+        "english": [
+            "copper"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Inanimate",
+        "createdBy": "Jonathan",
+        "id": "pima_45"
+    },
+    {
+        "protoForm": "kʷam",
+        "evolvedForm": "kʷama",
+        "modernForm": "kʷama",
+        "romanisation": "käma",
+        "english": [
+            "house"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Location",
+        "createdBy": "Jonathan",
+        "id": "käma_46"
+    },
+    {
+        "protoForm": "sʷanʷə",
+        "evolvedForm": "sʷanʷa",
+        "modernForm": "sʷanʷa",
+        "romanisation": "sänä",
+        "english": [
+            "bowed string instrument"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Culturally-Interesting",
+        "createdBy": "Jonathan",
+        "id": "sänä_47"
+    },
+    {
+        "protoForm": "pawanʲ",
+        "evolvedForm": "pawani",
+        "modernForm": "pawani",
+        "romanisation": "pawani",
+        "english": [
+            "to pull",
+            "to drag"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Transitive",
+        "createdBy": "Jonathan",
+        "id": "pawani_48"
+    },
+    {
+        "protoForm": "mʲənʷə",
+        "evolvedForm": "minʷi",
+        "modernForm": "minʷi",
+        "romanisation": "minï",
+        "english": [
+            "to sleep"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Intransitive",
+        "createdBy": "Jonathan",
+        "id": "minï_49"
+    },
+    {
+        "protoForm": "sʲəkʲ-sʲəkʲ",
+        "evolvedForm": "ʃiki-iki",
+        "modernForm": "ʃiki-iki",
+        "romanisation": "shiki-iki",
+        "english": [
+            "scrape",
+            "scratch",
+            "also for playing a sʷanʷə"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Sound/Sensory",
+        "createdBy": "Jonathan",
+        "id": "shiki-iki_50"
+    },
+    {
+        "protoForm": "sʲəkʲə-sʲəkʲə",
+        "evolvedForm": "ʃiki-iki",
+        "modernForm": "ʃiki-iki",
+        "romanisation": "shiki-iki",
+        "english": [
+            "scrape",
+            "scratch"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Feeling/Emotion",
+        "createdBy": "Jonathan",
+        "id": "shiki-iki_51"
+    },
+    {
+        "protoForm": "kʷatʷkʷə",
+        "evolvedForm": "kʷatuku",
+        "modernForm": "kʷatuku",
+        "romanisation": "kätuku",
+        "english": [
+            "hurried",
+            "rushed",
+            "running"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Event",
+        "createdBy": "Jonathan",
+        "id": "kätuku_52"
+    },
+    {
+        "protoForm": "sʷasʲə-sʷasʲə",
+        "evolvedForm": "sʷaʃi-waʃi",
+        "modernForm": "sʷaʃi-waʃi",
+        "romanisation": "säshi-washi",
+        "english": [
+            "flutter",
+            "flap",
+            "rustle",
+            "feeling nervous"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Manner",
+        "createdBy": "Jonathan",
+        "id": "säshi-washi_53"
+    },
+    {
+        "protoForm": "lʷalʷatʷ",
+        "evolvedForm": "raratu",
+        "modernForm": "raratu",
+        "romanisation": "raratu",
+        "english": [
+            "idiophone played with mallet"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "raratu_54"
+    },
+    {
+        "protoForm": "sʲənʷa-sʷənʲa",
+        "evolvedForm": "ʃinʷa-wanʲa",
+        "modernForm": "ʃinʷa-wanʲa",
+        "romanisation": "shinä-waná",
+        "english": [
+            "mixy-mixy"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "shinä-waná_55"
+    },
+    {
+        "protoForm": "kʲaw",
+        "evolvedForm": "kʲa",
+        "modernForm": "kʲa",
+        "romanisation": "ká",
+        "english": [
+            "person"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "ká_56"
+    },
+    {
+        "protoForm": "lʷəmʲ",
+        "evolvedForm": "rimi",
+        "modernForm": "rimi",
+        "romanisation": "rimi",
+        "english": [
+            "to stand"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "rimi_57"
+    },
+    {
+        "protoForm": "lʷəkʷa",
+        "evolvedForm": "rakʷa",
+        "modernForm": "rakʷa",
+        "romanisation": "rakä",
+        "english": [
+            "to walk",
+            "to go"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "rakä_58"
+    },
+    {
+        "protoForm": "atʷə",
+        "evolvedForm": "atʷa",
+        "modernForm": "atʷa",
+        "romanisation": "atä",
+        "english": [
+            "to see",
+            "to look at"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "atä_59"
+    },
+    {
+        "protoForm": "ətʷalʲ",
+        "evolvedForm": "atʷali",
+        "modernForm": "atʷali",
+        "romanisation": "atäli",
+        "english": [
+            "to hold",
+            "to carry"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "atäli_60"
+    },
+    {
+        "protoForm": "əsʷəkʲ",
+        "evolvedForm": "asʷiki",
+        "modernForm": "asʷiki",
+        "romanisation": "asïki",
+        "english": [
+            "to say"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "asïki_61"
+    },
+    {
+        "protoForm": "patʷ",
+        "evolvedForm": "patu",
+        "modernForm": "patu",
+        "romanisation": "patu",
+        "english": [
+            "punching sound",
+            "a big unpleasant surprise"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "patu_62"
+    },
+    {
+        "protoForm": "əpwə",
+        "evolvedForm": "apʷa",
+        "modernForm": "apʷa",
+        "romanisation": "apä",
+        "english": [
+            "arm"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "apä_63"
+    },
+    {
+        "protoForm": "atʷjə",
+        "evolvedForm": "atʷa",
+        "modernForm": "atʷa",
+        "romanisation": "atä",
+        "english": [
+            "head"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "atä_64"
+    },
+    {
+        "protoForm": "nʲatʲwa",
+        "evolvedForm": "nʲatʷa",
+        "modernForm": "nʲatʷa",
+        "romanisation": "nátä",
+        "english": [
+            "leg"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "nátä_65"
+    },
+    {
+        "protoForm": "akʷwamʲ",
+        "evolvedForm": "akʷami",
+        "modernForm": "akʷami",
+        "romanisation": "akämi",
+        "english": [
+            "eye"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "akämi_66"
+    },
+    {
+        "protoForm": "atʲlʲətʲ",
+        "evolvedForm": "atiliti",
+        "modernForm": "atiliti",
+        "romanisation": "atiliti",
+        "english": [
+            "sun"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "atiliti_67"
+    },
+    {
+        "protoForm": "əkʷlʲatʷ",
+        "evolvedForm": "ukuratu",
+        "modernForm": "ukuratu",
+        "romanisation": "ukuratu",
+        "english": [
+            "sky"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "ukuratu_68"
+    },
+    {
+        "protoForm": "wapʲlʷəp",
+        "evolvedForm": "wapiripi",
+        "modernForm": "wapiripi",
+        "romanisation": "wapiripi",
+        "english": [
+            "door"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "wapiripi_69"
+    },
+    {
+        "protoForm": "akʷmʲam",
+        "evolvedForm": "akumʲama",
+        "modernForm": "akumʲama",
+        "romanisation": "akumáma",
+        "english": [
+            "hand"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "akumáma_70"
+    },
+    {
+        "protoForm": "əpʲmʲatʷ",
+        "evolvedForm": "ipimʲatu",
+        "modernForm": "ipimʲatu",
+        "romanisation": "ipimátu",
+        "english": [
+            "knot"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "ipimátu_71"
+    },
+    {
+        "protoForm": "kʷətʷmə",
+        "evolvedForm": "kutumu",
+        "modernForm": "kutumu",
+        "romanisation": "kutumu",
+        "english": [
+            "mouth"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "kutumu_72"
+    },
+    {
+        "protoForm": "lʲapənʷ",
+        "evolvedForm": "rapanu",
+        "modernForm": "rapanu",
+        "romanisation": "rapanu",
+        "english": [
+            "moon"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "rapanu_73"
+    },
+    {
+        "protoForm": "akʷə",
+        "evolvedForm": "akʷa",
+        "modernForm": "akʷa",
+        "romanisation": "akä",
+        "english": [
+            "to make"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "akä_74"
+    },
+    {
+        "protoForm": "sʲəwlʲalʷ",
+        "evolvedForm": "ʃiralu",
+        "modernForm": "ʃiralu",
+        "romanisation": "shiralu",
+        "english": [
+            "to take",
+            "to pick",
+            "to harvest;"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "shiralu_75"
+    },
+    {
+        "protoForm": "nʲəlʷsʷaw",
+        "evolvedForm": "nilusʷa",
+        "modernForm": "nilusʷa",
+        "romanisation": "nilusä",
+        "english": [
+            "village",
+            "town"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "nilusä_76"
+    },
+    {
+        "protoForm": "alʲsʲamʲ",
+        "evolvedForm": "aliʃami",
+        "modernForm": "aliʃami",
+        "romanisation": "alishami",
+        "english": [
+            "sister"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "alishami_77"
+    },
+    {
+        "protoForm": "mʲalʲsʷa",
+        "evolvedForm": "mʲalisʷa",
+        "modernForm": "mʲalisʷa",
+        "romanisation": "málisä",
+        "english": [
+            "to turn"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "málisä_78"
+    },
+    {
+        "protoForm": "alʲlʲə",
+        "evolvedForm": "alili",
+        "modernForm": "alili",
+        "romanisation": "alili",
+        "english": [
+            "day"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "alili_79"
+    },
+    {
+        "protoForm": "kʷanʲəj",
+        "evolvedForm": "kʷani",
+        "modernForm": "kʷani",
+        "romanisation": "käni",
+        "english": [
+            "night"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "käni_80"
+    },
+    {
+        "protoForm": "əlʷlʷam",
+        "evolvedForm": "ulurama",
+        "modernForm": "ulurama",
+        "romanisation": "ulurama",
+        "english": [
+            "to dance"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "ulurama_81"
+    },
+    {
+        "protoForm": "sʷaw",
+        "evolvedForm": "sʷa",
+        "modernForm": "sʷa",
+        "romanisation": "sä",
+        "english": [
+            "to exist"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "sä_82"
+    },
+    {
+        "protoForm": "tʷəkʲəlʲ",
+        "evolvedForm": "tʷikili",
+        "modernForm": "tʷikili",
+        "romanisation": "tïkili",
+        "english": [
+            "beetle"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Animal/Animate",
+        "createdBy": "Tethys",
+        "id": "tïkili_83"
+    },
+    {
+        "protoForm": "kʷanʲ",
+        "evolvedForm": "kʷani",
+        "modernForm": "kʷani",
+        "romanisation": "käni",
+        "english": [
+            "oil palm"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Plant/Biotic Feature",
+        "createdBy": "Tethys",
+        "id": "käni_84"
+    },
+    {
+        "protoForm": "əkʷəmʲ",
+        "evolvedForm": "akʷimi",
+        "modernForm": "akʷimi",
+        "romanisation": "akïmi",
+        "english": [
+            "loom"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Inanimate",
+        "createdBy": "Tethys",
+        "id": "akïmi_85"
+    },
+    {
+        "protoForm": "kʲəsʷəlʲ",
+        "evolvedForm": "kisʷili",
+        "modernForm": "kisʷili",
+        "romanisation": "kisïli",
+        "english": [
+            "river"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Location",
+        "createdBy": "Tethys",
+        "id": "kisïli_86"
+    },
+    {
+        "protoForm": "tʲətʲ",
+        "evolvedForm": "titi",
+        "modernForm": "titi",
+        "romanisation": "titi",
+        "english": [
+            "spear"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Culturally-Interesting",
+        "createdBy": "Tethys",
+        "id": "titi_87"
+    },
+    {
+        "protoForm": "kʷəlʷa",
+        "evolvedForm": "kʷara",
+        "modernForm": "kʷara",
+        "romanisation": "kära",
+        "english": [
+            "to stab"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Transitive",
+        "createdBy": "Tethys",
+        "id": "kära_88"
+    },
+    {
+        "protoForm": "sʷəmə",
+        "evolvedForm": "sʷama",
+        "modernForm": "sʷama",
+        "romanisation": "säma",
+        "english": [
+            "to breathe"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Intransitive",
+        "createdBy": "Tethys",
+        "id": "säma_89"
+    },
+    {
+        "protoForm": "pakʲa",
+        "evolvedForm": "pakʲa",
+        "modernForm": "pakʲa",
+        "romanisation": "paká",
+        "english": [
+            "scorpion"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Animal/Animate",
+        "createdBy": "Keras",
+        "id": "paká_90"
+    },
+    {
+        "protoForm": "jatʷtʲəkʲ",
+        "evolvedForm": "jatutiki",
+        "modernForm": "jatutiki",
+        "romanisation": "jatutiki",
+        "english": [
+            "senna"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Plant/Biotic Feature",
+        "createdBy": "Keras",
+        "id": "jatutiki_91"
+    },
+    {
+        "protoForm": "lʲəwətʷ",
+        "evolvedForm": "liwitu",
+        "modernForm": "liwitu",
+        "romanisation": "liwitu",
+        "english": [
+            "rod"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Inanimate",
+        "createdBy": "Keras",
+        "id": "liwitu_92"
+    },
+    {
+        "protoForm": "akʷ",
+        "evolvedForm": "aku",
+        "modernForm": "aku",
+        "romanisation": "aku",
+        "english": [
+            "ground",
+            "floor"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Location",
+        "createdBy": "Keras",
+        "id": "aku_93"
+    },
+    {
+        "protoForm": "kʷatʲə",
+        "evolvedForm": "kʷati",
+        "modernForm": "kʷati",
+        "romanisation": "käti",
+        "english": [
+            "decorative shell"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Culturally-Interesting",
+        "createdBy": "Keras",
+        "id": "käti_94"
+    },
+    {
+        "protoForm": "tʲəlʷa",
+        "evolvedForm": "tira",
+        "modernForm": "tira",
+        "romanisation": "tira",
+        "english": [
+            "to pierce",
+            "to bore"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Transitive",
+        "createdBy": "Keras",
+        "id": "tira_95"
+    },
+    {
+        "protoForm": "asʲpʲa",
+        "evolvedForm": "aʃipʲa",
+        "modernForm": "aʃipʲa",
+        "romanisation": "ashipá",
+        "english": [
+            "to fly"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Intransitive",
+        "createdBy": "Keras",
+        "id": "ashipá_96"
+    },
+    {
+        "protoForm": "pəmʲakʷ",
+        "evolvedForm": "pamʲaku",
+        "modernForm": "pamʲaku",
+        "romanisation": "pamáku",
+        "english": [
+            "to winnow"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Culturally-Interesting",
+        "createdBy": "Keras",
+        "id": "pamáku_97"
+    },
+    {
+        "protoForm": "kʲəma-kʷəmʲa",
+        "evolvedForm": "kima-wamʲa",
+        "modernForm": "kima-wamʲa",
+        "romanisation": "kima-wamá",
+        "english": [
+            "of itchiness",
+            "pins and needles",
+            "tingling",
+            "pricklin",
+            "paresthesia",
+            "odd discomfort",
+            "negative gut feeling"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Sound/Sensory",
+        "createdBy": "Keras",
+        "id": "kima-wamá_98"
+    },
+    {
+        "protoForm": "məkʷtʷə-məkʷtʷə",
+        "evolvedForm": "mukutu-mukutu",
+        "modernForm": "mukutu-mukutu",
+        "romanisation": "mukutu-mukutu",
+        "english": [
+            "of dread",
+            "foreboding"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Feeling/Emotion",
+        "createdBy": "Keras",
+        "id": "mukutu-mukutu_99"
+    },
+    {
+        "protoForm": "alʲtʲa-alʲtʲa",
+        "evolvedForm": "alitʲa-alitʲa",
+        "modernForm": "alitʲa-alitʲa",
+        "romanisation": "alitá-alitá",
+        "english": [
+            "of celebration",
+            "dancing",
+            "cheering",
+            "whooping",
+            "hollering"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Event",
+        "createdBy": "Keras",
+        "id": "alitá-alitá_100"
+    },
+    {
+        "protoForm": "patʷa-patʷa",
+        "evolvedForm": "patʷa-patʷa",
+        "modernForm": "patʷa-patʷa",
+        "romanisation": "patä-patä",
+        "english": [
+            "of slow",
+            "ponderous motion or action"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Manner",
+        "createdBy": "Keras",
+        "id": "patä-patä_101"
+    },
+    {
+        "protoForm": "kʷatʲkʲə-kʲatʷkʷə",
+        "evolvedForm": "kʷatiki-jatuku",
+        "modernForm": "kʷatiki-jatuku",
+        "romanisation": "kätiki-jatuku",
+        "english": [
+            "of dizziness",
+            "haziness",
+            "loss of balance",
+            "unsteadiness",
+            "uncertainty"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "",
+        "createdBy": "Keras",
+        "id": "kätiki-jatuku_102"
+    },
+    {
+        "protoForm": "lʷatʷ",
+        "evolvedForm": "ratu",
+        "modernForm": "ratu",
+        "romanisation": "ratu",
+        "english": [
+            "of sudden thudding (e.g. after a fall)",
+            "thwacking",
+            "smacking"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "",
+        "createdBy": "Keras",
+        "id": "ratu_103"
+    },
+    {
+        "protoForm": "ətʲəp",
+        "evolvedForm": "itipi",
+        "modernForm": "itipi",
+        "romanisation": "itipi",
+        "english": [
+            "finger-ring"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Keras",
+        "id": "itipi_104"
+    },
+    {
+        "protoForm": "jəmkʲa",
+        "evolvedForm": "imikʲa",
+        "modernForm": "imikʲa",
+        "romanisation": "imiká",
+        "english": [
+            "raw",
+            "unrefined",
+            "crude"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Keras",
+        "id": "imiká_105"
+    },
+    {
+        "protoForm": "sʷamʲmʲatʲ",
+        "evolvedForm": "sʷamimʲati",
+        "modernForm": "sʷamimʲati",
+        "romanisation": "sämimáti",
+        "english": [
+            "lungfish"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Keras",
+        "id": "sämimáti_106"
+    },
+    {
+        "protoForm": "kʲəmʲ",
+        "evolvedForm": "kimi",
+        "modernForm": "kimi",
+        "romanisation": "kimi",
+        "english": [
+            "two"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Keras",
+        "id": "kimi_107"
+    },
+    {
+        "protoForm": "tʲəpə",
+        "evolvedForm": "tipi",
+        "modernForm": "tipi",
+        "romanisation": "tipi",
+        "english": [
+            "finger"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Keras",
+        "id": "tipi_108"
+    },
+    {
+        "protoForm": "əsʷətʷ",
+        "evolvedForm": "asutu",
+        "modernForm": "asutu",
+        "romanisation": "asutu",
+        "english": [
+            "yoke"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Keras",
+        "id": "asutu_109"
+    },
+    {
+        "protoForm": "tʷətʲjə",
+        "evolvedForm": "tʷiti",
+        "modernForm": "tʷiti",
+        "romanisation": "tïti",
+        "english": [
+            "sack"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Keras",
+        "id": "tïti_110"
+    },
+    {
+        "protoForm": "tʲəkʷkʲa",
+        "evolvedForm": "tikukʲa",
+        "modernForm": "tikukʲa",
+        "romanisation": "tikuká",
+        "english": [
+            "to strike",
+            "to hit",
+            "to beat;"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Keras",
+        "id": "tikuká_111"
+    },
+    {
+        "protoForm": "lʲətʲtʲə",
+        "evolvedForm": "lititi",
+        "modernForm": "lititi",
+        "romanisation": "lititi",
+        "english": [
+            "to shout"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Keras",
+        "id": "lititi_112"
+    },
+    {
+        "protoForm": "atʲa",
+        "evolvedForm": "atʲa",
+        "modernForm": "atʲa",
+        "romanisation": "atá",
+        "english": [
+            "to do",
+            "to perform an action"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Keras",
+        "id": "atá_113"
+    },
+    {
+        "protoForm": "tʷəpkʲa",
+        "evolvedForm": "tʷapakʲa",
+        "modernForm": "tʷapakʲa",
+        "romanisation": "täpaká",
+        "english": [
+            "to eat",
+            "to drink",
+            "to ingest"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "",
+        "createdBy": "Keras",
+        "id": "täpaká_114"
+    },
+    {
+        "protoForm": "kʲətʷtʲə",
+        "evolvedForm": "kituti",
+        "modernForm": "kituti",
+        "romanisation": "kituti",
+        "english": [
+            "sandfox"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Animal/Animate",
+        "createdBy": "Caleb",
+        "id": "kituti_115"
+    },
+    {
+        "protoForm": "kʷanʲəm",
+        "evolvedForm": "kʷanimi",
+        "modernForm": "kʷanimi",
+        "romanisation": "känimi",
+        "english": [
+            "date palm"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Plant/Biotic Feature",
+        "createdBy": "Caleb",
+        "id": "känimi_116"
+    },
+    {
+        "protoForm": "ajmə",
+        "evolvedForm": "ami",
+        "modernForm": "ami",
+        "romanisation": "ami",
+        "english": [
+            "drop spindle"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Inanimate",
+        "createdBy": "Caleb",
+        "id": "ami_117"
+    },
+    {
+        "protoForm": "əmʲkʲə",
+        "evolvedForm": "imiki",
+        "modernForm": "imiki",
+        "romanisation": "imiki",
+        "english": [
+            "jali (stone lattice screen)"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Location",
+        "createdBy": "Caleb",
+        "id": "imiki_118"
+    },
+    {
+        "protoForm": "jəkʲə",
+        "evolvedForm": "iki",
+        "modernForm": "iki",
+        "romanisation": "iki",
+        "english": [
+            "hackle/heckle comb"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Culturally-Interesting",
+        "createdBy": "Caleb",
+        "id": "iki_119"
+    },
+    {
+        "protoForm": "awsʷasʲ",
+        "evolvedForm": "asʷaʃi",
+        "modernForm": "asʷaʃi",
+        "romanisation": "asäshi",
+        "english": [
+            "water plants"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Transitive",
+        "createdBy": "Caleb",
+        "id": "asäshi_120"
+    },
+    {
+        "protoForm": "mʲənʲə",
+        "evolvedForm": "mini",
+        "modernForm": "mini",
+        "romanisation": "mini",
+        "english": [
+            "cry (sad)"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Intransitive",
+        "createdBy": "Caleb",
+        "id": "mini_121"
+    },
+    {
+        "protoForm": "jəkʲəkʷ",
+        "evolvedForm": "ikiku",
+        "modernForm": "ikiku",
+        "romanisation": "ikiku",
+        "english": [
+            "hackle/hecking fibres for spinning"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Culturally-Interesting",
+        "createdBy": "Caleb",
+        "id": "ikiku_122"
+    },
+    {
+        "protoForm": "sʲəwə-sʲəwə",
+        "evolvedForm": "ʃiwi-iwi",
+        "modernForm": "ʃiwi-iwi",
+        "romanisation": "shiwi-iwi",
+        "english": [
+            "the whistling sound of the evening wind through the jali"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Sound/Sensory",
+        "createdBy": "Caleb",
+        "id": "shiwi-iwi_123"
+    },
+    {
+        "protoForm": "tʲəm-tʲəm",
+        "evolvedForm": "timi-imi",
+        "modernForm": "timi-imi",
+        "romanisation": "timi-imi",
+        "english": [
+            "the calm you feel from performing mindless repetitive tasks like spinning"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Feeling/Emotion",
+        "createdBy": "Caleb",
+        "id": "timi-imi_124"
+    },
+    {
+        "protoForm": "kʲəj-kʲəj",
+        "evolvedForm": "ki-ji",
+        "modernForm": "ki-ji",
+        "romanisation": "ki-ji",
+        "english": [
+            "a baby bird’s first song"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Event",
+        "createdBy": "Caleb",
+        "id": "ki-ji_125"
+    },
+    {
+        "protoForm": "jəkʷa-jəkʷa",
+        "evolvedForm": "ikʷa-ikʷa",
+        "modernForm": "ikʷa-ikʷa",
+        "romanisation": "ikä-ikä",
+        "english": [
+            "as quick as possible",
+            "without care"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Manner",
+        "createdBy": "Caleb",
+        "id": "ikä-ikä_126"
+    },
+    {
+        "protoForm": "sʲəmja",
+        "evolvedForm": "ʃimʲa",
+        "modernForm": "ʃimʲa",
+        "romanisation": "shimá",
+        "english": [
+            "lentils"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Caleb",
+        "id": "shimá_127"
+    },
+    {
+        "protoForm": "kʷəpʲənʲ",
+        "evolvedForm": "kʷipini",
+        "modernForm": "kʷipini",
+        "romanisation": "kïpini",
+        "english": [
+            "cricket (insect)"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Animal/Animate",
+        "createdBy": "Tinguish",
+        "id": "kïpini_128"
+    },
+    {
+        "protoForm": "lʷakʷa",
+        "evolvedForm": "rakʷa",
+        "modernForm": "rakʷa",
+        "romanisation": "rakä",
+        "english": [
+            "cycad"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Plant/Biotic Feature",
+        "createdBy": "Tinguish",
+        "id": "rakä_129"
+    },
+    {
+        "protoForm": "tʲəmtʲəw",
+        "evolvedForm": "timitʲu",
+        "modernForm": "timitʲu",
+        "romanisation": "timitú",
+        "english": [
+            "firewood"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Inanimate",
+        "createdBy": "Tinguish",
+        "id": "timitú_130"
+    },
+    {
+        "protoForm": "mʲasʷakʷ",
+        "evolvedForm": "mʲasʷaku",
+        "modernForm": "mʲasʷaku",
+        "romanisation": "másäku",
+        "english": [
+            "cemetary",
+            "graveyard"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Location",
+        "createdBy": "Tinguish",
+        "id": "másäku_131"
+    },
+    {
+        "protoForm": "sʲalʲmaj",
+        "evolvedForm": "ʃalima",
+        "modernForm": "ʃalima",
+        "romanisation": "shalima",
+        "english": [
+            "grain flour"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Culturally-Interesting",
+        "createdBy": "Tinguish",
+        "id": "shalima_132"
+    },
+    {
+        "protoForm": "wawanʲ",
+        "evolvedForm": "wawani",
+        "modernForm": "wawani",
+        "romanisation": "wawani",
+        "english": [
+            "hug",
+            "embrace"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Transitive",
+        "createdBy": "Tinguish",
+        "id": "wawani_133"
+    },
+    {
+        "protoForm": "sʷatʲə",
+        "evolvedForm": "sʷati",
+        "modernForm": "sʷati",
+        "romanisation": "säti",
+        "english": [
+            "to trip",
+            "to fall"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Intransitive",
+        "createdBy": "Tinguish",
+        "id": "säti_134"
+    },
+    {
+        "protoForm": "pənʲətʷ",
+        "evolvedForm": "pinitu",
+        "modernForm": "pinitu",
+        "romanisation": "pinitu",
+        "english": [
+            "to tattoo"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Culturally-Interesting",
+        "createdBy": "Tinguish",
+        "id": "pinitu_135"
+    },
+    {
+        "protoForm": "pəlʷpəm",
+        "evolvedForm": "pulupumu",
+        "modernForm": "pulupumu",
+        "romanisation": "pulupumu",
+        "english": [
+            "sound of rain inside a building"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Sound/Sensory",
+        "createdBy": "Tinguish",
+        "id": "pulupumu_136"
+    },
+    {
+        "protoForm": "masʷ-masʷ",
+        "evolvedForm": "masu-masu",
+        "modernForm": "masu-masu",
+        "romanisation": "masu-masu",
+        "english": [
+            "morose",
+            "sulking"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Feeling/Emotion",
+        "createdBy": "Tinguish",
+        "id": "masu-masu_137"
+    },
+    {
+        "protoForm": "jasʲ-jasʲ",
+        "evolvedForm": "jaʃi-jaʃi",
+        "modernForm": "jaʃi-jaʃi",
+        "romanisation": "jashi-jashi",
+        "english": [
+            "lizard tail dropping off",
+            "a surprising or unexpected event"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Event",
+        "createdBy": "Tinguish",
+        "id": "jashi-jashi_138"
+    },
+    {
+        "protoForm": "pʲakʷ-pʲakʷ",
+        "evolvedForm": "pʲaku-jaku",
+        "modernForm": "pʲaku-jaku",
+        "romanisation": "páku-jaku",
+        "english": [
+            "arrogantly",
+            "confidently"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Manner",
+        "createdBy": "Tinguish",
+        "id": "páku-jaku_139"
+    },
+    {
+        "protoForm": "palʷəj",
+        "evolvedForm": "pari",
+        "modernForm": "pari",
+        "romanisation": "pari",
+        "english": [
+            "quail",
+            "buttonquail",
+            "plains-wanderer"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Animal/Animate",
+        "createdBy": "Magpie",
+        "id": "pari_140"
+    },
+    {
+        "protoForm": "mamʲətʷ",
+        "evolvedForm": "mamitu",
+        "modernForm": "mamitu",
+        "romanisation": "mamitu",
+        "english": [
+            "acacia tree",
+            "mulga tree"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Desert/Mountain Plant/Biotic Feature",
+        "createdBy": "Magpie",
+        "id": "mamitu_141"
+    },
+    {
+        "protoForm": "nʷakʷasʷ",
+        "evolvedForm": "nʷakʷasu",
+        "modernForm": "nʷakʷasu",
+        "romanisation": "näkäsu",
+        "english": [
+            "egg"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Inanimate",
+        "createdBy": "Magpie",
+        "id": "näkäsu_142"
+    },
+    {
+        "protoForm": "lʲətʷnʷətʷ",
+        "evolvedForm": "litunutu",
+        "modernForm": "litunutu",
+        "romanisation": "litunutu",
+        "english": [
+            "grove",
+            "cluster of trees"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "Location",
+        "createdBy": "Magpie",
+        "id": "litunutu_143"
+    },
+    {
+        "protoForm": "tʷənʷ",
+        "evolvedForm": "tunu",
+        "modernForm": "tunu",
+        "romanisation": "tunu",
+        "english": [
+            "to put",
+            "to place"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Transitive",
+        "createdBy": "Magpie",
+        "id": "tunu_144"
+    },
+    {
+        "protoForm": "nʲasʷə",
+        "evolvedForm": "nʲasʷa",
+        "modernForm": "nʲasʷa",
+        "romanisation": "násä",
+        "english": [
+            "to grow",
+            "to age",
+            "to ripen;"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Intransitive",
+        "createdBy": "Magpie",
+        "id": "násä_145"
+    },
+    {
+        "protoForm": "ətʲəkʷ",
+        "evolvedForm": "itiku",
+        "modernForm": "itiku",
+        "romanisation": "itiku",
+        "english": [
+            "to chew sweet tree gum"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "Culturally-Interesting",
+        "createdBy": "Magpie",
+        "id": "itiku_146"
+    },
+    {
+        "protoForm": "tʲakʷ-tʲakʷ",
+        "evolvedForm": "tʲaku-jaku",
+        "modernForm": "tʲaku-jaku",
+        "romanisation": "táku-jaku",
+        "english": [
+            "something hard cracking or breaking"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Sound/Sensory",
+        "createdBy": "Magpie",
+        "id": "táku-jaku_147"
+    },
+    {
+        "protoForm": "sʲəsʲ-sʲəsʲ",
+        "evolvedForm": "ʃiʃi-iʃi",
+        "modernForm": "ʃiʃi-iʃi",
+        "romanisation": "shishi-ishi",
+        "english": [
+            "slithering",
+            "snake-like in motion"
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "Manner",
+        "createdBy": "Magpie",
+        "id": "shishi-ishi_148"
+    },
+    {
+        "protoForm": "kʷətʲə",
+        "evolvedForm": "kʷiti",
+        "modernForm": "kʷiti",
+        "romanisation": "kïti",
+        "english": [
+            "bird of prey",
+            "raptor",
+            "hawk",
+            "eagle",
+            "kestrel",
+            "harrier"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Magpie",
+        "id": "kïti_149"
+    },
+    {
+        "protoForm": "mʲasʲlʲa",
+        "evolvedForm": "mʲaʃira",
+        "modernForm": "mʲaʃira",
+        "romanisation": "máshira",
+        "english": [
+            "small parrot",
+            "cockatoo",
+            "cockatiel",
+            "budgerigar",
+            "lorikeet"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Magpie",
+        "id": "máshira_150"
+    },
+    {
+        "protoForm": "mʲawtʲatʷ",
+        "evolvedForm": "mʲatʷatu",
+        "modernForm": "mʲatʷatu",
+        "romanisation": "mátätu",
+        "english": [
+            "monitor lizard",
+            "goanna",
+            "large carnivorous lizard"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Magpie",
+        "id": "mátätu_151"
+    },
+    {
+        "protoForm": "ammətʲ",
+        "evolvedForm": "amamiti",
+        "modernForm": "amamiti",
+        "romanisation": "amamiti",
+        "english": [
+            "strong"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "amamiti_152"
+    },
+    {
+        "protoForm": "nʲaj",
+        "evolvedForm": "nʲa",
+        "modernForm": "nʲa",
+        "romanisation": "ná",
+        "english": [
+            "this"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "ná_153"
+    },
+    {
+        "protoForm": "kʷəlʲa",
+        "evolvedForm": "kʷara",
+        "modernForm": "kʷara",
+        "romanisation": "kära",
+        "english": [
+            "handsome",
+            "pretty"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "kära_154"
+    },
+    {
+        "protoForm": "tʲakʲa",
+        "evolvedForm": "tʲakʲa",
+        "modernForm": "tʲakʲa",
+        "romanisation": "táká",
+        "english": [
+            "big"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "táká_155"
+    },
+    {
+        "protoForm": "wakʲakʲ",
+        "evolvedForm": "wakʲaki",
+        "modernForm": "wakʲaki",
+        "romanisation": "wakáki",
+        "english": [
+            "hot (temperature)"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "wakáki_156"
+    },
+    {
+        "protoForm": "sʲamam",
+        "evolvedForm": "ʃamama",
+        "modernForm": "ʃamama",
+        "romanisation": "shamama",
+        "english": [
+            "true"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "shamama_157"
+    },
+    {
+        "protoForm": "amlʷa",
+        "evolvedForm": "amara",
+        "modernForm": "amara",
+        "romanisation": "amara",
+        "english": [
+            "sour"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "amara_158"
+    },
+    {
+        "protoForm": "kʷasʲsʲa",
+        "evolvedForm": "kʷaʃiʃa",
+        "modernForm": "kʷaʃiʃa",
+        "romanisation": "käshisha",
+        "english": [
+            "bland"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "käshisha_159"
+    },
+    {
+        "protoForm": "lʲəkʷ",
+        "evolvedForm": "liku",
+        "modernForm": "liku",
+        "romanisation": "liku",
+        "english": [
+            "wet"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "liku_160"
+    },
+    {
+        "protoForm": "wəkʷə",
+        "evolvedForm": "wakʷa",
+        "modernForm": "wakʷa",
+        "romanisation": "wakä",
+        "english": [
+            "high"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "wakä_161"
+    },
+    {
+        "protoForm": "nʲakʲa",
+        "evolvedForm": "nʲakʲa",
+        "modernForm": "nʲakʲa",
+        "romanisation": "náká",
+        "english": [
+            "short"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "náká_162"
+    },
+    {
+        "protoForm": "tʷawaj",
+        "evolvedForm": "tʷawa",
+        "modernForm": "tʷawa",
+        "romanisation": "täwa",
+        "english": [
+            "turgid",
+            "swollen"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "täwa_163"
+    },
+    {
+        "protoForm": "jalʲtʲə",
+        "evolvedForm": "jaliti",
+        "modernForm": "jaliti",
+        "romanisation": "jaliti",
+        "english": [
+            "strange",
+            "foreign"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "jaliti_164"
+    },
+    {
+        "protoForm": "məməsʲ",
+        "evolvedForm": "mamiʃi",
+        "modernForm": "mamiʃi",
+        "romanisation": "mamishi",
+        "english": [
+            "soft"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Miles",
+        "id": "mamishi_165"
+    },
+    {
+        "protoForm": "əlʲətʷ",
+        "evolvedForm": "ilitu",
+        "modernForm": "ilitu",
+        "romanisation": "ilitu",
+        "english": [
+            "fresh"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Miles",
+        "id": "ilitu_166"
+    },
+    {
+        "protoForm": "kʷajə",
+        "evolvedForm": "kʷa",
+        "modernForm": "kʷa",
+        "romanisation": "kä",
+        "english": [
+            "easy"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Miles",
+        "id": "kä_167"
+    },
+    {
+        "protoForm": "sʲəsʷsʷə",
+        "evolvedForm": "ʃisusu",
+        "modernForm": "ʃisusu",
+        "romanisation": "shisusu",
+        "english": [
+            "quiet"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Miles",
+        "id": "shisusu_168"
+    },
+    {
+        "protoForm": "lʲətʲakʷ",
+        "evolvedForm": "litʲaku",
+        "modernForm": "litʲaku",
+        "romanisation": "litáku",
+        "english": [
+            "hungry"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Miles",
+        "id": "litáku_169"
+    },
+    {
+        "protoForm": "tʲəkʷətʲ",
+        "evolvedForm": "tikʷiti",
+        "modernForm": "tikʷiti",
+        "romanisation": "tikïti",
+        "english": [
+            "clear"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Miles",
+        "id": "tikïti_170"
+    },
+    {
+        "protoForm": "wammʲətʷ",
+        "evolvedForm": "wamamitu",
+        "modernForm": "wamamitu",
+        "romanisation": "wamamitu",
+        "english": [
+            "stinky"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Miles",
+        "id": "wamamitu_171"
+    },
+    {
+        "protoForm": "kʷəkʲ",
+        "evolvedForm": "kʷiki",
+        "modernForm": "kʷiki",
+        "romanisation": "kïki",
+        "english": [
+            "wild"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Miles",
+        "id": "kïki_172"
+    },
+    {
+        "protoForm": "anʲkʲətʲ",
+        "evolvedForm": "anikiti",
+        "modernForm": "anikiti",
+        "romanisation": "anikiti",
+        "english": [
+            "dirty"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Miles",
+        "id": "anikiti_173"
+    },
+    {
+        "protoForm": "mamakʲ",
+        "evolvedForm": "mamaki",
+        "modernForm": "mamaki",
+        "romanisation": "mamaki",
+        "english": [
+            "fast"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Miles",
+        "id": "mamaki_174"
+    },
+    {
+        "protoForm": "sʲakʷpa",
+        "evolvedForm": "ʃakupa",
+        "modernForm": "ʃakupa",
+        "romanisation": "shakupa",
+        "english": [
+            "brave"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Miles",
+        "id": "shakupa_175"
+    },
+    {
+        "protoForm": "kʲəsʲsʲəj",
+        "evolvedForm": "kiʃiʃi",
+        "modernForm": "kiʃiʃi",
+        "romanisation": "kishishi",
+        "english": [
+            "sharp"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Miles",
+        "id": "kishishi_176"
+    },
+    {
+        "protoForm": "anʷnʷam",
+        "evolvedForm": "anunʷama",
+        "modernForm": "anunʷama",
+        "romanisation": "anunäma",
+        "english": [
+            "weak"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "anunäma_177"
+    },
+    {
+        "protoForm": "pəjjəkʷ",
+        "evolvedForm": "paku",
+        "modernForm": "paku",
+        "romanisation": "paku",
+        "english": [
+            "that"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Keras",
+        "id": "paku_178"
+    },
+    {
+        "protoForm": "sʷanʷənʲ",
+        "evolvedForm": "sʷanʷani",
+        "modernForm": "sʷanʷani",
+        "romanisation": "sänäni",
+        "english": [
+            "ugly"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "sänäni_179"
+    },
+    {
+        "protoForm": "malʷa",
+        "evolvedForm": "mara",
+        "modernForm": "mara",
+        "romanisation": "mara",
+        "english": [
+            "small"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Magpie",
+        "id": "mara_180"
+    },
+    {
+        "protoForm": "mamʲaw",
+        "evolvedForm": "mamʲa",
+        "modernForm": "mamʲa",
+        "romanisation": "mamá",
+        "english": [
+            "cold"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Caleb",
+        "id": "mamá_181"
+    },
+    {
+        "protoForm": "mətʷə",
+        "evolvedForm": "matʷa",
+        "modernForm": "matʷa",
+        "romanisation": "matä",
+        "english": [
+            "false"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "matä_182"
+    },
+    {
+        "protoForm": "tʲəmsʲəkʲ",
+        "evolvedForm": "timiʃiki",
+        "modernForm": "timiʃiki",
+        "romanisation": "timishiki",
+        "english": [
+            "sweet"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Keras",
+        "id": "timishiki_183"
+    },
+    {
+        "protoForm": "tʷəwwənʷ",
+        "evolvedForm": "tʷawunu",
+        "modernForm": "tʷawunu",
+        "romanisation": "täwunu",
+        "english": [
+            "tasty"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "The Autonomous Spirit of Google so-called Docs",
+        "id": "täwunu_184"
+    },
+    {
+        "protoForm": "kʷəsʲsʲa",
+        "evolvedForm": "kʷiʃiʃa",
+        "modernForm": "kʷiʃiʃa",
+        "romanisation": "kïshisha",
+        "english": [
+            "dry"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Keras",
+        "id": "kïshisha_185"
+    },
+    {
+        "protoForm": "pəlʲwa",
+        "evolvedForm": "para",
+        "modernForm": "para",
+        "romanisation": "para",
+        "english": [
+            "low"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Keras",
+        "id": "para_186"
+    },
+    {
+        "protoForm": "kʷətʷnʲə",
+        "evolvedForm": "kutuni",
+        "modernForm": "kutuni",
+        "romanisation": "kutuni",
+        "english": [
+            "tall"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Magpie",
+        "id": "kutuni_187"
+    },
+    {
+        "protoForm": "mawə",
+        "evolvedForm": "mawa",
+        "modernForm": "mawa",
+        "romanisation": "mawa",
+        "english": [
+            "flaccid",
+            "droopy"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Caleb",
+        "id": "mawa_188"
+    },
+    {
+        "protoForm": "əkʷmə",
+        "evolvedForm": "ukumu",
+        "modernForm": "ukumu",
+        "romanisation": "ukumu",
+        "english": [
+            "familiar"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Keras",
+        "id": "ukumu_189"
+    },
+    {
+        "protoForm": "jakʲkʲa",
+        "evolvedForm": "jakikʲa",
+        "modernForm": "jakikʲa",
+        "romanisation": "jakiká",
+        "english": [
+            "hard",
+            "firm"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Keras",
+        "id": "jakiká_190"
+    },
+    {
+        "protoForm": "pʲakʷwə",
+        "evolvedForm": "pʲakʷa",
+        "modernForm": "pʲakʷa",
+        "romanisation": "pákä",
+        "english": [
+            "rotten"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "pákä_191"
+    },
+    {
+        "protoForm": "əwjanʲ",
+        "evolvedForm": "awani",
+        "modernForm": "awani",
+        "romanisation": "awani",
+        "english": [
+            "difficult"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "awani_192"
+    },
+    {
+        "protoForm": "əplʲəkʲ",
+        "evolvedForm": "apiliki",
+        "modernForm": "apiliki",
+        "romanisation": "apiliki",
+        "english": [
+            "loud"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Keras",
+        "id": "apiliki_193"
+    },
+    {
+        "protoForm": "wajjam",
+        "evolvedForm": "wajama",
+        "modernForm": "wajama",
+        "romanisation": "wajama",
+        "english": [
+            "satiated"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "wajama_194"
+    },
+    {
+        "protoForm": "pʲəkʷapʲ",
+        "evolvedForm": "pikʷapi",
+        "modernForm": "pikʷapi",
+        "romanisation": "pikäpi",
+        "english": [
+            "opaque",
+            "turbid"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Caleb",
+        "id": "pikäpi_195"
+    },
+    {
+        "protoForm": "mʲənʷətʲ",
+        "evolvedForm": "minʷiti",
+        "modernForm": "minʷiti",
+        "romanisation": "minïti",
+        "english": [
+            "pleasant-smelling"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Keras",
+        "id": "minïti_196"
+    },
+    {
+        "protoForm": "lʷawamʲ",
+        "evolvedForm": "rawami",
+        "modernForm": "rawami",
+        "romanisation": "rawami",
+        "english": [
+            "tame"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Magpie",
+        "id": "rawami_197"
+    },
+    {
+        "protoForm": "əwkʲam",
+        "evolvedForm": "akʷama",
+        "modernForm": "akʷama",
+        "romanisation": "akäma",
+        "english": [
+            "clean"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Caleb",
+        "id": "akäma_198"
+    },
+    {
+        "protoForm": "tʷətʷsʷətʷ",
+        "evolvedForm": "tutusutu",
+        "modernForm": "tutusutu",
+        "romanisation": "tutusutu",
+        "english": [
+            "slow"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "keras",
+        "id": "tutusutu_199"
+    },
+    {
+        "protoForm": "tʲamʲa",
+        "evolvedForm": "tʲamʲa",
+        "modernForm": "tʲamʲa",
+        "romanisation": "támá",
+        "english": [
+            "afraid"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jonathan",
+        "id": "támá_200"
+    },
+    {
+        "protoForm": "kʷawjanʷ",
+        "evolvedForm": "kʷawanu",
+        "modernForm": "kʷawanu",
+        "romanisation": "käwanu",
+        "english": [
+            "dull"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Magpie",
+        "id": "käwanu_201"
+    },
+    {
+        "protoForm": "",
+        "evolvedForm": null,
+        "modernForm": null,
+        "romanisation": null,
+        "english": [
+            "absolutive"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "",
+        "createdBy": "LHAB"
+    },
+    {
+        "protoForm": "-asʲ",
+        "evolvedForm": "aʃi",
+        "modernForm": "aʃi",
+        "romanisation": "ashi",
+        "english": [
+            "ergative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "",
+        "createdBy": "LHAB",
+        "id": "ashi_202"
+    },
+    {
+        "protoForm": "-nʷə",
+        "evolvedForm": "nʷa",
+        "modernForm": "nʷa",
+        "romanisation": "nä",
+        "english": [
+            "genitive"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "",
+        "createdBy": "LHAB",
+        "id": "nä_203"
+    },
+    {
+        "protoForm": "-kʲəj",
+        "evolvedForm": "ki",
+        "modernForm": "ki",
+        "romanisation": "ki",
+        "english": [
+            "dative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "",
+        "createdBy": "LHAB",
+        "id": "ki_204"
+    },
+    {
+        "protoForm": "-lʲatʲə",
+        "evolvedForm": "rati",
+        "modernForm": "rati",
+        "romanisation": "rati",
+        "english": [
+            "instrumental"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "",
+        "createdBy": "LHAB",
+        "id": "rati_205"
+    },
+    {
+        "protoForm": "-kʷawa",
+        "evolvedForm": "kʷawa",
+        "modernForm": "kʷawa",
+        "romanisation": "käwa",
+        "english": [
+            "locative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "",
+        "createdBy": "LHAB",
+        "id": "käwa_206"
+    },
+    {
+        "protoForm": "-tʲəpʲa",
+        "evolvedForm": "tipʲa",
+        "modernForm": "tipʲa",
+        "romanisation": "tipá",
+        "english": [
+            "ablative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "",
+        "createdBy": "LHAB",
+        "id": "tipá_207"
+    },
+    {
+        "protoForm": "-tʷajatʲ",
+        "evolvedForm": "tʷajati",
+        "modernForm": "tʷajati",
+        "romanisation": "täjati",
+        "english": [
+            "allative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "",
+        "createdBy": "LHAB",
+        "id": "täjati_208"
+    },
+    {
+        "protoForm": "aw",
+        "evolvedForm": "a",
+        "modernForm": "a",
+        "romanisation": "a",
+        "english": [
+            "1st singular harmonic"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB",
+        "id": "a_209"
+    },
+    {
+        "protoForm": "wəkʷ",
+        "evolvedForm": "wuku",
+        "modernForm": "wuku",
+        "romanisation": "wuku",
+        "english": [
+            "1st dual harmonic exclusive"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB",
+        "id": "wuku_210"
+    },
+    {
+        "protoForm": "kʲasʲ",
+        "evolvedForm": "kʲaʃi",
+        "modernForm": "kʲaʃi",
+        "romanisation": "káshi",
+        "english": [
+            "1st dual disharmonic exclusive"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB",
+        "id": "káshi_211"
+    },
+    {
+        "protoForm": "mʲakʲ",
+        "evolvedForm": "mʲaki",
+        "modernForm": "mʲaki",
+        "romanisation": "máki",
+        "english": [
+            "1st pural harmonic exclusive"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB",
+        "id": "máki_212"
+    },
+    {
+        "protoForm": "tʲəkʷə",
+        "evolvedForm": "tikʷi",
+        "modernForm": "tikʷi",
+        "romanisation": "tikï",
+        "english": [
+            "1st plural disharmonic exclusive"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB",
+        "id": "tikï_213"
+    },
+    {
+        "protoForm": "kʲəpa",
+        "evolvedForm": "kipa",
+        "modernForm": "kipa",
+        "romanisation": "kipa",
+        "english": [
+            "1st dual harmonic inclusive"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB",
+        "id": "kipa_214"
+    },
+    {
+        "protoForm": "sʷamsʲa",
+        "evolvedForm": "sʷamaʃa",
+        "modernForm": "sʷamaʃa",
+        "romanisation": "sämasha",
+        "english": [
+            "1st dual disharmonic inclusive"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB",
+        "id": "sämasha_215"
+    },
+    {
+        "protoForm": "pʲəkʲə",
+        "evolvedForm": "piki",
+        "modernForm": "piki",
+        "romanisation": "piki",
+        "english": [
+            "1st plural harmonic inclusive"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB",
+        "id": "piki_216"
+    },
+    {
+        "protoForm": "mətʲmə",
+        "evolvedForm": "mitimi",
+        "modernForm": "mitimi",
+        "romanisation": "mitimi",
+        "english": [
+            "1st plural disharmonic inclusive"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB",
+        "id": "mitimi_217"
+    },
+    {
+        "protoForm": "jatʲəkʲ",
+        "evolvedForm": "jatiki",
+        "modernForm": "jatiki",
+        "romanisation": "jatiki",
+        "english": [
+            "2nd singular harmonic"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB",
+        "id": "jatiki_218"
+    },
+    {
+        "protoForm": "əlʲkʲa",
+        "evolvedForm": "ilikʲa",
+        "modernForm": "ilikʲa",
+        "romanisation": "iliká",
+        "english": [
+            "2nd singular disharmonic"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB",
+        "id": "iliká_219"
+    },
+    {
+        "protoForm": "paja",
+        "evolvedForm": "paja",
+        "modernForm": "paja",
+        "romanisation": "paja",
+        "english": [
+            "2nd dual harmonic"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB",
+        "id": "paja_220"
+    },
+    {
+        "protoForm": "jəmʲə",
+        "evolvedForm": "imi",
+        "modernForm": "imi",
+        "romanisation": "imi",
+        "english": [
+            "2nd dual disharmonic"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB",
+        "id": "imi_221"
+    },
+    {
+        "protoForm": "lʷatʲsʲə",
+        "evolvedForm": "ratiʃi",
+        "modernForm": "ratiʃi",
+        "romanisation": "ratishi",
+        "english": [
+            "2nd plural harmonic"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB",
+        "id": "ratishi_222"
+    },
+    {
+        "protoForm": "kʲəsʷjə",
+        "evolvedForm": "kisʷi",
+        "modernForm": "kisʷi",
+        "romanisation": "kisï",
+        "english": [
+            "2nd plural disharmonic"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB",
+        "id": "kisï_223"
+    },
+    {
+        "protoForm": "məsʲ",
+        "evolvedForm": "miʃi",
+        "modernForm": "miʃi",
+        "romanisation": "mishi",
+        "english": [
+            "3rd singular harmonic"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB",
+        "id": "mishi_224"
+    },
+    {
+        "protoForm": "ətʷə",
+        "evolvedForm": "atʷa",
+        "modernForm": "atʷa",
+        "romanisation": "atä",
+        "english": [
+            "3rd singular disharmonic"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB",
+        "id": "atä_225"
+    },
+    {
+        "protoForm": "mʲətʷəkʷ",
+        "evolvedForm": "mitʷiku",
+        "modernForm": "mitʷiku",
+        "romanisation": "mitïku",
+        "english": [
+            "3rd dual harmonic"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB",
+        "id": "mitïku_226"
+    },
+    {
+        "protoForm": "tʷəkʲə",
+        "evolvedForm": "tʷiki",
+        "modernForm": "tʷiki",
+        "romanisation": "tïki",
+        "english": [
+            "3rd dual disharmonic"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB",
+        "id": "tïki_227"
+    },
+    {
+        "protoForm": "lʲənʲəm",
+        "evolvedForm": "linimi",
+        "modernForm": "linimi",
+        "romanisation": "linimi",
+        "english": [
+            "3rd plural harmonic"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB",
+        "id": "linimi_228"
+    },
+    {
+        "protoForm": "əsʷa",
+        "evolvedForm": "asʷa",
+        "modernForm": "asʷa",
+        "romanisation": "asä",
+        "english": [
+            "3rd plural disharmonic"
+        ],
+        "partOfSpeech": "pronoun",
+        "notes": "",
+        "createdBy": "LHAB",
+        "id": "asä_229"
+    },
+    {
+        "protoForm": "ətʲ-",
+        "evolvedForm": "iti",
+        "modernForm": "iti",
+        "romanisation": "iti",
+        "english": [
+            "relativizer 'that Xes’"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-11 relativisation and deverbal morphology",
+        "createdBy": "LHAB",
+        "id": "iti_230"
+    },
+    {
+        "protoForm": "ja-",
+        "evolvedForm": "ja",
+        "modernForm": "ja",
+        "romanisation": "ja",
+        "english": [
+            "agentive 'X-er, who Xes'"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-11 relativisation and deverbal morphology",
+        "createdBy": "LHAB",
+        "id": "ja_231"
+    },
+    {
+        "protoForm": "awə-",
+        "evolvedForm": "awa",
+        "modernForm": "awa",
+        "romanisation": "awa",
+        "english": [
+            "nominalisation 'x-ing'"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-11 relativisation and deverbal morphology",
+        "createdBy": "LHAB",
+        "id": "awa_232"
+    },
+    {
+        "protoForm": "-kʲə-",
+        "evolvedForm": "ki",
+        "modernForm": "ki",
+        "romanisation": "ki",
+        "english": [
+            "sequential 'after-X'"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-11 relativisation and deverbal morphology",
+        "createdBy": "LHAB",
+        "id": "ki_233"
+    },
+    {
+        "protoForm": "-nʷətʲ-",
+        "evolvedForm": "nʷiti",
+        "modernForm": "nʷiti",
+        "romanisation": "nïti",
+        "english": [
+            "while X, simultaneous"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-11 relativisation and deverbal morphology",
+        "createdBy": "LHAB",
+        "id": "nïti_234"
+    },
+    {
+        "protoForm": "-sʲəmʲə-",
+        "evolvedForm": "ʃimi",
+        "modernForm": "ʃimi",
+        "romanisation": "shimi",
+        "english": [
+            "inchoative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-11 relativisation and deverbal morphology",
+        "createdBy": "LHAB",
+        "id": "shimi_235"
+    },
+    {
+        "protoForm": "-atʲtʲanʷ-",
+        "evolvedForm": "atitʲanu",
+        "modernForm": "atitʲanu",
+        "romanisation": "atitánu",
+        "english": [
+            "consequential"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-11 relativisation and deverbal morphology",
+        "createdBy": "LHAB",
+        "id": "atitánu_236"
+    },
+    {
+        "protoForm": "-mʲa-",
+        "evolvedForm": "mʲa",
+        "modernForm": "mʲa",
+        "romanisation": "má",
+        "english": [
+            "interrogative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-10 interrogative",
+        "createdBy": "LHAB",
+        "id": "má_237"
+    },
+    {
+        "protoForm": "-lʷakʷ-",
+        "evolvedForm": "raku",
+        "modernForm": "raku",
+        "romanisation": "raku",
+        "english": [
+            "reflexive"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-9 reflexive",
+        "createdBy": "LHAB",
+        "id": "raku_238"
+    },
+    {
+        "protoForm": "-lʲanʲ-",
+        "evolvedForm": "rani",
+        "modernForm": "rani",
+        "romanisation": "rani",
+        "english": [
+            "direct non-visual"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-8 evidential",
+        "createdBy": "LHAB",
+        "id": "rani_239"
+    },
+    {
+        "protoForm": "-sʷama-",
+        "evolvedForm": "sʷama",
+        "modernForm": "sʷama",
+        "romanisation": "säma",
+        "english": [
+            "heresay"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-8 evidential",
+        "createdBy": "LHAB",
+        "id": "säma_240"
+    },
+    {
+        "protoForm": "-pəpʲa-",
+        "evolvedForm": "papʲa",
+        "modernForm": "papʲa",
+        "romanisation": "papá",
+        "english": [
+            "imperative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-7 imperative, prohibitive",
+        "createdBy": "LHAB",
+        "id": "papá_241"
+    },
+    {
+        "protoForm": "-kʲawatʲ-",
+        "evolvedForm": "kʲawati",
+        "modernForm": "kʲawati",
+        "romanisation": "káwati",
+        "english": [
+            "prohibitive"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-7 imperative, prohibitive",
+        "createdBy": "LHAB",
+        "id": "káwati_242"
+    },
+    {
+        "protoForm": "-kʲətʷ-",
+        "evolvedForm": "kitu",
+        "modernForm": "kitu",
+        "romanisation": "kitu",
+        "english": [
+            "below",
+            "under",
+            "down",
+            "inside"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-6 directional",
+        "createdBy": "LHAB",
+        "id": "kitu_243"
+    },
+    {
+        "protoForm": "-sʲasʷ-",
+        "evolvedForm": "ʃasu",
+        "modernForm": "ʃasu",
+        "romanisation": "shasu",
+        "english": [
+            "above",
+            "over",
+            "up",
+            "away",
+            "out"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-6 directional",
+        "createdBy": "LHAB",
+        "id": "shasu_244"
+    },
+    {
+        "protoForm": "-nʲa-",
+        "evolvedForm": "nʲa",
+        "modernForm": "nʲa",
+        "romanisation": "ná",
+        "english": [
+            "through",
+            "alongside",
+            "by"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-6 directional",
+        "createdBy": "LHAB",
+        "id": "ná_245"
+    },
+    {
+        "protoForm": "-awakʲ-",
+        "evolvedForm": "awaki",
+        "modernForm": "awaki",
+        "romanisation": "awaki",
+        "english": [
+            "optative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-5 optative, desirative",
+        "createdBy": "LHAB",
+        "id": "awaki_246"
+    },
+    {
+        "protoForm": "-kʷama-",
+        "evolvedForm": "kʷama",
+        "modernForm": "kʷama",
+        "romanisation": "käma",
+        "english": [
+            "desirative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-5 optative, desirative",
+        "createdBy": "LHAB",
+        "id": "käma_247"
+    },
+    {
+        "protoForm": "-tʷakʷ-",
+        "evolvedForm": "tʷaku",
+        "modernForm": "tʷaku",
+        "romanisation": "täku",
+        "english": [
+            "negator"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-4 negative",
+        "createdBy": "LHAB",
+        "id": "täku_248"
+    },
+    {
+        "protoForm": "-waj-",
+        "evolvedForm": "wa",
+        "modernForm": "wa",
+        "romanisation": "wa",
+        "english": [
+            "not yet"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-4 negative",
+        "createdBy": "LHAB",
+        "id": "wa_249"
+    },
+    {
+        "protoForm": "-tʷa-",
+        "evolvedForm": "tʷa",
+        "modernForm": "tʷa",
+        "romanisation": "tä",
+        "english": [
+            "causative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-2 causative, antipassive, applicative",
+        "createdBy": "LHAB",
+        "id": "tä_250"
+    },
+    {
+        "protoForm": "-lʲaw-",
+        "evolvedForm": "ra",
+        "modernForm": "ra",
+        "romanisation": "ra",
+        "english": [
+            "antipassive"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-2 causative, antipassive, applicative",
+        "createdBy": "LHAB",
+        "id": "ra_251"
+    },
+    {
+        "protoForm": "-kʲəmʲ-",
+        "evolvedForm": "kimi",
+        "modernForm": "kimi",
+        "romanisation": "kimi",
+        "english": [
+            "comitative applicative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-2 causative, antipassive, applicative",
+        "createdBy": "LHAB",
+        "id": "kimi_252"
+    },
+    {
+        "protoForm": "-sʷənʲ-",
+        "evolvedForm": "sʷini",
+        "modernForm": "sʷini",
+        "romanisation": "sïni",
+        "english": [
+            "benefactive applicative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-2 causative, antipassive, applicative",
+        "createdBy": "LHAB",
+        "id": "sïni_253"
+    },
+    {
+        "protoForm": "-məkʷaj-",
+        "evolvedForm": "makʷa",
+        "modernForm": "makʷa",
+        "romanisation": "makä",
+        "english": [
+            "abilitative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "-1 abilitative",
+        "createdBy": "LHAB",
+        "id": "makä_254"
+    },
+    {
+        "protoForm": "-nʲənʷ-",
+        "evolvedForm": "ninu",
+        "modernForm": "ninu",
+        "romanisation": "ninu",
+        "english": [
+            "recent past (same day)"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "+2 tense",
+        "createdBy": "LHAB",
+        "id": "ninu_255"
+    },
+    {
+        "protoForm": "-tʷamʲ-",
+        "evolvedForm": "tʷami",
+        "modernForm": "tʷami",
+        "romanisation": "tämi",
+        "english": [
+            "distant past"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "+2 tense",
+        "createdBy": "LHAB",
+        "id": "tämi_256"
+    },
+    {
+        "protoForm": "-lʷaj-",
+        "evolvedForm": "ra",
+        "modernForm": "ra",
+        "romanisation": "ra",
+        "english": [
+            "future"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "+2 tense",
+        "createdBy": "LHAB",
+        "id": "ra_257"
+    },
+    {
+        "protoForm": "-lʲə",
+        "evolvedForm": "li",
+        "modernForm": "li",
+        "romanisation": "li",
+        "english": [
+            "continuous"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "+3 aspect",
+        "createdBy": "LHAB",
+        "id": "li_258"
+    },
+    {
+        "protoForm": "-tʲalʲ",
+        "evolvedForm": "tʲali",
+        "modernForm": "tʲali",
+        "romanisation": "táli",
+        "english": [
+            "cessative"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "+3 aspect",
+        "createdBy": "LHAB",
+        "id": "táli_259"
+    },
+    {
+        "protoForm": "-kʷaw",
+        "evolvedForm": "kʷa",
+        "modernForm": "kʷa",
+        "romanisation": "kä",
+        "english": [
+            "perfective"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "+3 aspect",
+        "createdBy": "LHAB",
+        "id": "kä_260"
+    },
+    {
+        "protoForm": "lʲajnʲa",
+        "evolvedForm": "ranʲa",
+        "modernForm": "ranʲa",
+        "romanisation": "raná",
+        "english": [
+            "late"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Jake",
+        "id": "raná_261"
+    },
+    {
+        "protoForm": "jawnʲa",
+        "evolvedForm": "janʷa",
+        "modernForm": "janʷa",
+        "romanisation": "janä",
+        "english": [
+            "early"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "",
+        "createdBy": "Caleb",
+        "id": "janä_262"
+    }
+]
