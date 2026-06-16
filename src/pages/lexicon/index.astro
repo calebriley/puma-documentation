@@ -14,7 +14,7 @@ const vocab = await getCollection('vocab');
   <tbody>
     {vocab.map(term => (
     <tr>
-      <td><a href={`/lexicon/${term.id}`}>{term.data.romanisation}</a></td>
+      <td><a href={`/puma-documentation/lexicon/${term.id}`}>{term.data.romanisation}</a></td>
       <td>{term.data.modernForm}</td>
       <td>{term.data.english.join('; ')}</td>
     </tr>
