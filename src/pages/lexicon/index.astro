@@ -1,0 +1,24 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+import { getCollection } from 'astro:content';
+const vocab = await getCollection('vocab');
+---
+<StarlightPage frontmatter={{ title: 'Lexicon' }}>
+<h1>Vocab</h1>
+<table>
+  <thead>
+    <tr>
+      <th>Romanisation</th><th>IPA</th><th>English</th>
+    </tr>
+  </thead>
+  <tbody>
+    {vocab.map(term => (
+    <tr>
+      <td><a href={`/lexicon/${term.id}`}>{term.data.romanisation}</a></td>
+      <td>{term.data.modernForm}</td>
+      <td>{term.data.english.join('; ')}</td>
+    </tr>
+  ))}
+  </tbody>
+</table>
+</StarlightPage>

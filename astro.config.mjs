@@ -12,7 +12,7 @@ export default defineConfig({
 					label: 'Grammar',
 					items: [{ autogenerate: { directory: 'grammar' }}],
 				},
-				{ label: "Vocab", link: '/vocab/' },
+				{ label: "Lexicon", link: '/lexicon/' },
 				{
 					label: 'Proto-Language',
 					items: [{ autogenerate: { directory: 'protolanguage' }}],
