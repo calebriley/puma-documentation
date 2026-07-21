@@ -3513,5 +3513,356 @@
         "notes": "",
         "createdBy": "Caleb",
         "id": "janä_263"
+    },
+    {
+        "protoForm": "sʲa",
+        "evolvedForm": "ʃa",
+        "modernForm": "ʃa",
+        "romanisation": "sha",
+        "english": [
+            "after"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "sha_0"
+    },
+    {
+        "protoForm": "jamʲkʷə",
+        "evolvedForm": "jamikʷi",
+        "modernForm": "jamikʷi",
+        "romanisation": "jamikï",
+        "english": [
+            "recieve/get"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "jamikï_1"
+    },
+    {
+        "protoForm": "wəsʲkʷa",
+        "evolvedForm": "wiʃikʷa",
+        "modernForm": "wiʃikʷa",
+        "romanisation": "wishikä",
+        "english": [
+            "complaint"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "wishikä_2"
+    },
+    {
+        "protoForm": "mʲəppə",
+        "evolvedForm": "mipipa",
+        "modernForm": "mipipa",
+        "romanisation": "mipipa",
+        "english": [
+            "quality"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "mipipa_3"
+    },
+    {
+        "protoForm": "kʷalʷə",
+        "evolvedForm": "kʷara",
+        "modernForm": "kʷara",
+        "romanisation": "kära",
+        "english": [
+            "goods/wares"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "kära_4"
+    },
+    {
+        "protoForm": "nʲəkʷalʷə",
+        "evolvedForm": "nikʷara",
+        "modernForm": "nikʷara",
+        "romanisation": "nikära",
+        "english": [
+            "merchant/salesman"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "nikära_5"
+    },
+    {
+        "protoForm": "əkʷmʲa",
+        "evolvedForm": "ukumʲa",
+        "modernForm": "ukumʲa",
+        "romanisation": "ukumá",
+        "english": [
+            "apprentice"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "ukumá_6"
+    },
+    {
+        "protoForm": "jatʲsʷaw",
+        "evolvedForm": "jatisʷa",
+        "modernForm": "jatisʷa",
+        "romanisation": "jatisä",
+        "english": [
+            "work"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "jatisä_7"
+    },
+    {
+        "protoForm": "tʲamsʲa",
+        "evolvedForm": "tʲamaʃa",
+        "modernForm": "tʲamaʃa",
+        "romanisation": "támasha",
+        "english": [
+            "hard"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "támasha_8"
+    },
+    {
+        "protoForm": "kʲənʷə",
+        "evolvedForm": "kinʷi",
+        "modernForm": "kinʷi",
+        "romanisation": "kinï",
+        "english": [
+            "feel"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "kinï_9"
+    },
+    {
+        "protoForm": "mʲə",
+        "evolvedForm": "mi",
+        "modernForm": "mi",
+        "romanisation": "mi",
+        "english": [
+            "more/comparitive"
+        ],
+        "partOfSpeech": "affix",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "mi_10"
+    },
+    {
+        "protoForm": "əmtʷəmʲ",
+        "evolvedForm": "amatʷimi",
+        "modernForm": "amatʷimi",
+        "romanisation": "amatïmi",
+        "english": [
+            "admiration"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "amatïmi_11"
+    },
+    {
+        "protoForm": "makʲtʷəm",
+        "evolvedForm": "makitʷimi",
+        "modernForm": "makitʷimi",
+        "romanisation": "makitïmi",
+        "english": [
+            "statue"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "makitïmi_12"
+    },
+    {
+        "protoForm": "jətʲə",
+        "evolvedForm": "iti",
+        "modernForm": "iti",
+        "romanisation": "iti",
+        "english": [
+            "carved"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "iti_13"
+    },
+    {
+        "protoForm": "məmʲmʲə",
+        "evolvedForm": "mimimi",
+        "modernForm": "mimimi",
+        "romanisation": "mimimi",
+        "english": [
+            "mountain"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "mimimi_14"
+    },
+    {
+        "protoForm": "əjkʲəkʷ",
+        "evolvedForm": "ikiku",
+        "modernForm": "ikiku",
+        "romanisation": "ikiku",
+        "english": [
+            "shade"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "ikiku_15"
+    },
+    {
+        "protoForm": "sʲəpʲəm",
+        "evolvedForm": "ʃipimi",
+        "modernForm": "ʃipimi",
+        "romanisation": "shipimi",
+        "english": [
+            "nobody"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "shipimi_16"
+    },
+    {
+        "protoForm": "tʷatʲap",
+        "evolvedForm": "tʷatʲapa",
+        "modernForm": "tʷatʲapa",
+        "romanisation": "tätápa",
+        "english": [
+            "catch"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "tätápa_17"
+    },
+    {
+        "protoForm": "tʲəmətʷ",
+        "evolvedForm": "timitu",
+        "modernForm": "timitu",
+        "romanisation": "timitu",
+        "english": [
+            "walk"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "timitu_18"
+    },
+    {
+        "protoForm": "kʷalʷəkʷalʷə",
+        "evolvedForm": "kʷarakʷara",
+        "modernForm": "kʷarakʷara",
+        "romanisation": "kärakära",
+        "english": [
+            "warehouse"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "kärakära_19"
+    },
+    {
+        "protoForm": "əwə",
+        "evolvedForm": "awa",
+        "modernForm": "awa",
+        "romanisation": "awa",
+        "english": [
+            "ask forgiveness"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "awa_20"
+    },
+    {
+        "protoForm": "papətʷ",
+        "evolvedForm": "papatu",
+        "modernForm": "papatu",
+        "romanisation": "papatu",
+        "english": [
+            "lips"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "papatu_21"
+    },
+    {
+        "protoForm": "əp",
+        "evolvedForm": "apa",
+        "modernForm": "apa",
+        "romanisation": "apa",
+        "english": [
+            "put/place"
+        ],
+        "partOfSpeech": "verb",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "apa_22"
+    },
+    {
+        "protoForm": "apa-apa",
+        "evolvedForm": "apa-apa",
+        "modernForm": "apa-apa",
+        "romanisation": "apa-apa",
+        "english": [
+            "\"don't worry\""
+        ],
+        "partOfSpeech": "ideophone",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "apa-apa_23"
+    },
+    {
+        "protoForm": "pakʷalʷə",
+        "evolvedForm": "pakʷara",
+        "modernForm": "pakʷara",
+        "romanisation": "pakära",
+        "english": [
+            "shipment"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "pakära_24"
+    },
+    {
+        "protoForm": "kʷəsʲəkʲ",
+        "evolvedForm": "kʷiʃiki",
+        "modernForm": "kʷiʃiki",
+        "romanisation": "kïshiki",
+        "english": [
+            "ingot/bar"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "kïshiki_25"
+    },
+    {
+        "protoForm": "mʲakʲətʷ",
+        "evolvedForm": "mʲakitu",
+        "modernForm": "mʲakitu",
+        "romanisation": "mákitu",
+        "english": [
+            "late"
+        ],
+        "partOfSpeech": "modifier",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "mákitu_26"
     }
 ]
