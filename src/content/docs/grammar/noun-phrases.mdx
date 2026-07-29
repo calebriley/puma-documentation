@@ -7,19 +7,35 @@ sidebar:
 
 ## Structure
 
-gen-np det-case mod-case noun
+```
+NOUN_PHRASE = [ GENITIVE_PHRASE ], NOUN, SPACE, CASE_DETERMINER ;
+
+GENITVE_PHRASE = NOUN, SPACE, GENITIVE_DETERMINER, SPACE ;
+
+SPACE = " " ;
+
+GENITIVE_DETERMINER = DETERMINER, GENITIVE_CASE ;
+CASE_DETERMINER = DETERMINER, ALL_CASES_EXCEPT_GENITIVE ;
+
+GENITIVE_CASE = "nä" ;
+ALL_CASES_EXCEPT_GENITIVE = "" | "ashi" ;
+ALL_CASES = GENITIVE_CASE | ALL_CASES_EXCEPT_GENITIVE ;
+
+DETERMINER = "" | "shu" | "ri" | "kú" | "ru" 
+           | "ti" | "sä" | "wu" | "u" | "ta" ;
+```
 
 ## Determiners and case marking
 
-| Determiner | Meaning |
-|------------|---------|
-| ∅ | general |
-| shu- | proximal |
-| ri- | medial |
-| kú- | distal |
-| ru- | all |
-| ti- | many |
-| sä- | some |
-| wu- | few |
-| u- | none |
-| ta- | interrogative |
+| Determiner | Meaning | Case | Meaning |
+|------------|---------|------|---------|
+| ∅ | general | ∅ | accusative |
+| shu- | proximal | [-ashi](/puma-documentation/lexicon/-ashi_203) | ergative |
+| ri- | medial | [-nä](/puma-documentation/lexicon/-nä_204) | genitive |
+| kú- | distal | | |
+| ru- | all | | |
+| ti- | many | | |
+| sä- | some | | |
+| wu- | few | | |
+| u- | none | | |
+| ta- | interrogative | | |
