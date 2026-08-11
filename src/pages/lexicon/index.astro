@@ -8,7 +8,7 @@ const vocab = await getCollection('vocab');
 <table>
   <thead>
     <tr>
-      <th>Romanisation</th><th>IPA</th><th>English</th>
+      <th>Romanisation</th><th>IPA</th><th>POS</th><th>English</th>
     </tr>
   </thead>
   <tbody>
@@ -16,6 +16,7 @@ const vocab = await getCollection('vocab');
     <tr>
       <td><a href={`/puma-documentation/lexicon/${term.id}`}>{term.data.romanisation}</a></td>
       <td>{term.data.modernForm}</td>
+      <td>{term.data.partOfSpeech}</td>
       <td>{term.data.english.join('; ')}</td>
     </tr>
   ))}

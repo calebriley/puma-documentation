@@ -3864,5 +3864,122 @@
         "notes": "New vocab for translation",
         "createdBy": "Caleb",
         "id": "mákitu_26"
+    },
+    {
+        "protoForm": "ʃu-",
+        "evolvedForm": "ʃu-",
+        "modernForm": "ʃu-",
+        "romanisation": "shu-",
+        "english": [
+            "proximal"
+        ],
+        "partOfSpeech": "determiner",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "shu_27"
+    },
+    {
+        "protoForm": "ri-",
+        "evolvedForm": "ri-",
+        "modernForm": "ri-",
+        "romanisation": "ri-",
+        "english": [
+            "medial"
+        ],
+        "partOfSpeech": "determiner",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "ri_28"
+    },
+    {
+        "protoForm": "kʲu-",
+        "evolvedForm": "kʲu-",
+        "modernForm": "kʲu-",
+        "romanisation": "kú-",
+        "english": [
+            "distal"
+        ],
+        "partOfSpeech": "determiner",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "kú_29"
+    },
+    {
+        "protoForm": "ru-",
+        "evolvedForm": "ru-",
+        "modernForm": "ru-",
+        "romanisation": "ru-",
+        "english": [
+            "all"
+        ],
+        "partOfSpeech": "determiner",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "ru_30"
+    },
+    {
+        "protoForm": "ti-",
+        "evolvedForm": "ti-",
+        "modernForm": "ti-",
+        "romanisation": "ti-",
+        "english": [
+            "many"
+        ],
+        "partOfSpeech": "determiner",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "ti_31"
+    },
+    {
+        "protoForm": "sʷa-",
+        "evolvedForm": "sʷa-",
+        "modernForm": "sʷa-",
+        "romanisation": "sä-",
+        "english": [
+            "some"
+        ],
+        "partOfSpeech": "determiner",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "sä_32"
+    },
+    {
+        "protoForm": "wu-",
+        "evolvedForm": "wu-",
+        "modernForm": "wu-",
+        "romanisation": "wu-",
+        "english": [
+            "few"
+        ],
+        "partOfSpeech": "determiner",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "wu_34"
+    },
+    {
+        "protoForm": "u-",
+        "evolvedForm": "u-",
+        "modernForm": "u-",
+        "romanisation": "u-",
+        "english": [
+            "none"
+        ],
+        "partOfSpeech": "determiner",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "u_34"
+    },
+    {
+        "protoForm": "ta-",
+        "evolvedForm": "ta-",
+        "modernForm": "ta-",
+        "romanisation": "ta-",
+        "english": [
+            "interrogative"
+        ],
+        "partOfSpeech": "determiner",
+        "notes": "New vocab for translation",
+        "createdBy": "Caleb",
+        "id": "ta_35"
     }
 ]
