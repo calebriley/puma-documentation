@@ -3982,5 +3982,19 @@
         "notes": "New vocab for translation",
         "createdBy": "Caleb",
         "id": "ta_35"
+    },
+    {
+        "protoForm": "məmʲ",
+        "evolvedForm": "mimi",
+        "modernForm": "mimi",
+        "romanisation": "mimi",
+        "english": [
+            "buttocks",
+            "arse"
+        ],
+        "partOfSpeech": "noun",
+        "notes": "",
+        "createdBy": "Caleb",
+        "id": "mimi_36"
     }
 ]
